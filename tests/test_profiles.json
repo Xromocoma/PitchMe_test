@@ -1,0 +1,167 @@
+[
+    {
+    "first_name": "Jhon",
+    "last_name": "Smith",
+    "skills": ["Docker", "PostgreSQL", "MongoDB", "Redis", "Kafka", "Asyncio"],
+    "description": "False - city condition",
+    "location": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "experiences": [
+      {
+        "company_name": "Some company",
+        "job_title": "React Frontend Developer",
+        "description": "",
+        "skills": [],
+        "starts_at": "2010-03-15",
+        "location": {
+          "city": "Krasnoyarsk",
+          "country": "Russia"
+        }
+      }
+    ]
+  },
+  {
+    "first_name": "Garry",
+    "last_name": "Fisher",
+    "skills": ["Docker", "PostgreSQL", "MongoDB", "Redis", "Kafka", "Asyncio"],
+    "description": "False - not enough experience",
+    "location": {
+      "city": "London",
+      "country": ""
+    },
+    "experiences": [
+      {
+        "company_name": "FAANG",
+        "job_title": "Backend Developer",
+        "description": "",
+        "skills": ["python","c++"],
+        "starts_at": "2016-03-15",
+        "ends_at": "2022-01-01",
+        "location": {
+          "city": "London",
+          "country": ""
+        }
+      },
+      {
+        "company_name": "Some company",
+        "job_title": "Backend Developer",
+        "description": "",
+        "skills": ["python","c++"],
+        "starts_at": "2017-03-15",
+        "ends_at": "2023-03-03",
+        "location": {
+          "city": "London",
+          "country": ""
+        }
+      }
+    ]
+  },
+  {
+    "first_name": "Test",
+    "last_name": "False",
+    "skills": ["Docker", "PostgreSQL", "MongoDB", "Redis", "Kafka", "Asyncio"],
+    "description": "False - not enough experience",
+    "location": {
+      "city": "London",
+      "country": ""
+    },
+    "experiences": []
+  },
+    {
+    "first_name": "Doctor",
+    "last_name": "Who",
+    "skills": ["Docker", "PostgreSQL", "MongoDB", "Redis", "Kafka", "Asyncio"],
+    "description": "False - last 3 works is not Backend developer/ Software engineer.",
+    "location": {
+      "city": "London",
+      "country": ""
+    },
+    "experiences": [
+
+      {
+        "company_name": "FAANG",
+        "job_title": "Backend Developer",
+        "description": "",
+        "skills": ["python", "c++", "react"],
+        "starts_at": "2010-03-15",
+        "location": {
+          "city": "London",
+          "country": ""
+        }
+      },
+      {
+        "company_name": "Comedy",
+        "job_title": "Backend Developer",
+        "description": "",
+        "skills": ["python", "c++", "react"],
+        "starts_at": "2008-03-15",
+        "ends_at": "2010-01-01",
+        "location": {
+          "city": "London",
+          "country": ""
+        }
+      }
+      ,
+      {
+        "company_name": "EPAM",
+        "job_title": "Frontend Developer",
+        "description": "",
+        "skills": ["react"],
+        "starts_at": "2006-03-15",
+        "ends_at": "2008-01-01",
+        "location": {
+          "city": "London",
+          "country": ""
+        }
+      }
+    ]
+  },
+  {
+    "first_name": "Clark",
+    "last_name": "Kent",
+    "skills": ["Docker", "PostgreSQL", "MongoDB", "Redis", "Kafka", "Asyncio"],
+    "description": "True - candidate OK",
+    "location": {
+      "city": "London",
+      "country": ""
+    },
+    "experiences": [
+      {
+        "company_name": "Freelance",
+        "job_title": "Backend Developer",
+        "description": "",
+        "skills": ["python", "c++"],
+        "starts_at": "2010-03-15",
+        "ends_at":  "2012-08-20",
+        "location": {
+          "city": "London",
+          "country": ""
+        }
+      },
+      {
+        "company_name": "Freelance",
+        "job_title": "Backend Developer",
+        "description": "",
+        "skills": ["python", "c++"],
+        "starts_at": "2015-03-15",
+        "location": {
+          "city": "London",
+          "country": ""
+        }
+      },
+      {
+        "company_name": "FAANG",
+        "job_title": "Backend Developer",
+        "description": "",
+        "skills": ["python"],
+        "starts_at": "2013-03-15",
+        "location": {
+          "city": "London",
+          "country": ""
+        }
+      }
+    ]
+  }
+]
