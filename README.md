@@ -95,7 +95,13 @@ Steve Jobs – False, Never worked in UK
 python ./cli.py --filter python-developer --input ./profiles.json
 ```
 
-### Для запуска тестов, выполнить в корне проекта:
+### Для запуска тестов:
+в случае не установленного модуля pytest, выполнить:
+```shell
+pip install pytest
+```
+
+, выполнить в корне проекта
 ```shell
 pytest
 ```
